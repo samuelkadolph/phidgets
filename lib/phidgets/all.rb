@@ -1,0 +1,5 @@
+require "phidgets"
+require "phidgets/dictionary"
+require "phidgets/interface_kit"
+require "phidgets/logging"
+require "phidgets/manager"
